@@ -1,0 +1,15 @@
+# ignore pdf,docx
+*.pdf
+*.docx
+
+# ignore unorganized files
+PPT/
+note/
+testcode/
+
+# ignore .pyc
+*.pyc
+
+# ignore todo
+
+**/todo/
